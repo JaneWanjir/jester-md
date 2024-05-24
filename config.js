@@ -8,20 +8,20 @@ const axios = require('axios');
 // Ori : @callmevinz
 
 //=== Edit Disini 🔥
-global.namabot = "AiBotzz-MD"
-global.namaowner = "Sanjaya"
+global.namabot = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
+global.namaowner = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
 global.packname = "Sticker by"
-global.creator = "SanjayaAds"
-global.author = "AiBotzz-MD\n\nBot WhatsApp"
-global.wm = "AiBotzz-MD"
+global.creator = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
+global.author = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃\n\n+254102074064"
+global.wm = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
 global.syt = "https://www.youtube.com/@SanjayaAds"
 global.sgc = "https://chat.whatsapp.com/BhLOaPSL3SKCw9QAnudLDw"
 global.idgc = "120363250058335630@g.us"
 global.email = "OwnerKuu@gmail.com"
 global.sig = "https://Instagram.com/@Jayy_yete"
 global.myweb = "https://shoplinks.to/AiBotzzSH"
-global.footer_text = "© AiBotzz-MD"
-global.owner = ['62896540577165']
+global.footer_text = "© Jester-MD"
+global.owner = ['254102074064']
 global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
 global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
 global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
@@ -60,7 +60,7 @@ global.APIKeys = {
 }
 
 //=== Gak Tau 🐦
-global.pairingNumber = "6283831409855"
+global.pairingNumber = "254102074064"
 // Nomor whatsapp bot lu
 global.prefix = ['-_-'] 
 // Jangan diubah
@@ -96,12 +96,12 @@ global.autoRestart = true
 // False (Nonaktifin)
 // AutoRestart Cocok Tuk Panel Butut
 global.mess = {
- done: 'Sukses!',
- wait: 'Sedang diproses',
- admin: 'Fitur Khusus Admin grup!',
- botNotAdmin: 'Saya bukan Admin grup',
- owner: 'Fitur Khusus Owner!',
- group: 'Fitur Khusus Group!',
+ done: 'Success',
+ wait: ' processing',
+ admin: 'Only Admin!',
+ botNotAdmin: 'Bot is not an admin',
+ owner: 'Owner only!',
+ group: 'Group command!',
 }
 
 // Setting Game
