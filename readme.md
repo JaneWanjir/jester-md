@@ -40,4 +40,4 @@
 VNSHOOP | @callmevinz
 AIBOTZZZSH | @Sanjayaads
 Whatsapp Alvin: 083150418588
-Whatsapp Jay: 089654057716
+Whatsapp Jay: 254784396123
