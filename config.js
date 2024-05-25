@@ -8,12 +8,12 @@ const axios = require('axios');
 // Ori : @callmevinz
 
 //=== Edit Disini 🔥
-global.namabot = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
-global.namaowner = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
+global.namabot = "Pervy 𝐌𝐃"
+global.namaowner ="Pervy Sage 々"
 global.packname = "Sticker by"
-global.creator = "⟠ 𝐃𝐑𝚺𝐗 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"
-global.author = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃\n\n+254102074064"
-global.wm = "𝐉𝐄𝐒𝐓𝐄𝐑 𝐌𝐃"
+global.creator = "⟠ Pervy Sage  々"
+global.author = "Pervy 𝐌𝐃\n\n+254784396123"
+global.wm = "Pervy 𝐌𝐃"
 global.syt = "https://www.youtube.com/@SanjayaAds"
 global.sgc = "https://chat.whatsapp.com/BhLOaPSL3SKCw9QAnudLDw"
 global.idgc = "120363250058335630@g.us"
@@ -21,7 +21,7 @@ global.email = "OwnerKuu@gmail.com"
 global.sig = "https://Instagram.com/@Jayy_yete"
 global.myweb = "https://shoplinks.to/AiBotzzSH"
 global.footer_text = "© Jester-MD"
-global.owner = ['254102074064']
+global.owner = ['254784396123']
 global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
 global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
 global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
@@ -60,9 +60,9 @@ global.APIKeys = {
 }
 
 //=== Gak Tau 🐦
-global.pairingNumber = "254102074064"
+global.pairingNumber = "254784396123"
 // Nomor whatsapp bot lu
-global.prefix = ['-_-'] 
+global.prefix = ['.,!?#'] 
 // Jangan diubah
 global.tekspushcontact = "Izin Push" 
 // Terserah
@@ -76,7 +76,7 @@ global.game = true
 // False (Nonaktifin)
 global.groupOnly = false 
 // True (Mode grup)
-global.privateOnly = false
+global.privateOnly = true 
 // True (Mode grup)
 global.antispam = true 
 // False (Nonaktifin)
@@ -108,7 +108,7 @@ global.mess = {
 global.gamewaktu = 60 // Game waktu
 global.bmin = 1000 // Balance minimal 
 global.bmax = 5000 // Balance maksimal
-global.limit = 30 // Limit user
+global.limit = 99999 // Limit user
 
 // Database Game
 global.suit = {};
